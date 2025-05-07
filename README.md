@@ -1,4 +1,4 @@
-📊 Netflix Content Analysis Dashboard
+# 📊 Netflix Content Analysis Dashboard
 This interactive Tableau dashboard provides an in-depth analysis of Netflix's content library. It offers insights into the distribution, ratings, genres, and global availability of movies and TV shows available on the platform. Key features include:
 
 Content Filters: Users can filter content by Type (Movie/TV Show) and Title.
